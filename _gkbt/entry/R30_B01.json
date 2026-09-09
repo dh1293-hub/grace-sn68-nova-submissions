@@ -1,0 +1,10 @@
+{
+  "candidate_payload_included": false,
+  "chain_commitment_created": false,
+  "netuid": 68,
+  "project": "Grace SN68 NOVA Submissions",
+  "purpose": "Repository transport connection only; not a molecule submission.",
+  "release_id": "GKBT_SN68_R30_B01_20260909",
+  "validator_score": null,
+  "wallet_secrets_included": false
+}
